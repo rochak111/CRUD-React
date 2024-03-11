@@ -22,6 +22,12 @@ const employee = [
         id:"4",
         Name: "John Doe4",
         Email:"john.doe4@example.com"
+    },
+
+    {
+        id:"5",
+        Name: "Budo",
+        Email:"john@gmail.com"
     }
 ]
 export default employee;
